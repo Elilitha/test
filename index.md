@@ -35,13 +35,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 [use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
 
 
----
-title: Parent
-layout: home
-Parent: Parenttest
-nav_order:2
-has_children: true
----
+
 ---
 layout: default
 title: Child
