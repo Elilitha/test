@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: home
 title: nested child
 parent: Parent
-grand_parent: Parenttest
 nav_order: 1
 ---
