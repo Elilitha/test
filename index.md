@@ -14,4 +14,4 @@ this site is updated using my github trival to some, a fun way to learn a skill 
 [github page](https://github.com/Elilitha)
 ----
 
-more to come soon
+more to come soon 
